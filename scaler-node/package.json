@@ -1,0 +1,26 @@
+{
+  "name": "scaler",
+  "version": "1.0.0",
+  "description": "Node's scaler API library",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zengadget/scaler-lib.git"
+  },
+  "keywords": [
+    "resize",
+    "convert",
+    "scale",
+    "image",
+    "photo"
+  ],
+  "author": "Matej Ukmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zengadget/scaler-lib/issues"
+  },
+  "homepage": "https://github.com/zengadget/scaler-lib#readme"
+}
